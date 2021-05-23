@@ -1,5 +1,5 @@
-# Car-Networking Simulation Using Android
-Using Android-Mobile in-built Sensor, tried to simulate the netwokring of cars.
+# Tesla Car-Networking Simulation Using Android
+Using Android-Mobile in-built Sensor, tried to simulate the networking of cars.
 
 ## Pre-requisites:
   - Python version 3.8.5
